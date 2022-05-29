@@ -2,5 +2,5 @@
 *.bbl
 *.blg
 *.log
-*.pdf
+main.pdf
 *.synctex.gz
